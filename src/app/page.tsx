@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Phone, Mail, MapPin, Volume2, Lightbulb, Video, Home, Utensils, Zap, Droplets } from "lucide-react"
+import { DomainChecker } from "@/components/DomainChecker"
 
 export default function HomePage() {
   const services = [
@@ -50,6 +51,7 @@ export default function HomePage() {
   ]
 
   return (
+    <DomainChecker>
     <div className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
       {/* Header */}
       <header className="border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 sticky top-0 z-50">
@@ -614,5 +616,6 @@ export default function HomePage() {
         </div>
       </footer>
     </div>
+    </DomainChecker>
   )
 }
