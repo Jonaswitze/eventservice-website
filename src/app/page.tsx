@@ -534,7 +534,7 @@ export default function HomePage() {
               </div>
               <h4 className="text-xl font-semibold mb-2">Telefon</h4>
               <p className="text-gray-600 mb-4">Rufen Sie uns an für eine schnelle Beratung</p>
-              <p className="text-blue-600 font-semibold">+49 (0) 123 456 789</p>
+              <p className="text-blue-600 font-semibold">+49 (0) 1577 7598945</p>
             </Card>
 
             <Card className="text-center p-8">
@@ -543,7 +543,7 @@ export default function HomePage() {
               </div>
               <h4 className="text-xl font-semibold mb-2">E-Mail</h4>
               <p className="text-gray-600 mb-4">Schreiben Sie uns Ihre Anfrage</p>
-              <p className="text-blue-600 font-semibold">info@eventservice-.de</p>
+              <p className="text-blue-600 font-semibold">j.herrllich@esherrllich.de</p>
             </Card>
 
             <Card className="text-center p-8">
@@ -553,8 +553,8 @@ export default function HomePage() {
               <h4 className="text-xl font-semibold mb-2">Standort</h4>
               <p className="text-gray-600 mb-4">Besuchen Sie uns vor Ort</p>
               <p className="text-blue-600 font-semibold">
-                Musterstraße 123<br />
-                12345 Musterstadt
+                Heinrich-Claes-Straße 66<br />
+                51371 Leverkusen
               </p>
             </Card>
           </div>
@@ -603,10 +603,10 @@ export default function HomePage() {
             <div>
               <h5 className="font-semibold mb-4">Kontakt</h5>
               <ul className="space-y-2 text-gray-400">
-                <li>+49 (0) 123 456 789</li>
-                <li>info@eventservice-.de</li>
-                <li>Musterstraße 123</li>
-                <li>12345 Musterstadt</li>
+                <li>+49 (0) 1577 7598945</li>
+                <li>j.herrllich@esherrllich.de</li>
+                <li>Heinrich-Claes-Straße 66</li>
+                <li>51371 Leverkusen</li>
               </ul>
             </div>
           </div>
