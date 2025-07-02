@@ -38,7 +38,7 @@ export function MaintenancePage() {
                   Dringende Anfragen? Kontaktieren Sie uns direkt:
                 </h3>
 
-                <div className="grid md:grid-cols-3 gap-4">
+                <div className="grid md:grid-cols-2 gap-4">
                   <Card className="p-4 border border-gray-200 hover:border-blue-300 transition-colors">
                     <div className="text-center">
                       <div className="w-10 h-10 bg-blue-600 rounded-lg flex items-center justify-center mx-auto mb-2">
