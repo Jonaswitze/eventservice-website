@@ -28,7 +28,7 @@ export function MaintenancePage() {
             <div className="bg-gray-50 rounded-lg p-6 mb-8">
               <div className="flex items-center justify-center space-x-2 text-gray-700">
                 <Clock className="h-5 w-5" />
-                <span className="font-medium">Voraussichtliche Dauer: 2-4 Stunden</span>
+                <span className="font-medium">Voraussichtliche Dauer: N/A</span>
               </div>
             </div>
 
@@ -46,7 +46,7 @@ export function MaintenancePage() {
                       </div>
                       <p className="text-sm font-medium text-gray-700">Telefon</p>
                       <p className="text-blue-600 font-semibold text-sm mt-1">
-                        +49 (0) 123 456 789
+                        +49 (0) 1577 7598945
                       </p>
                     </div>
                   </Card>
@@ -58,19 +58,7 @@ export function MaintenancePage() {
                       </div>
                       <p className="text-sm font-medium text-gray-700">E-Mail</p>
                       <p className="text-purple-600 font-semibold text-sm mt-1">
-                        info@eventservice-pro.de
-                      </p>
-                    </div>
-                  </Card>
-
-                  <Card className="p-4 border border-gray-200 hover:border-blue-300 transition-colors">
-                    <div className="text-center">
-                      <div className="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center mx-auto mb-2">
-                        <MapPin className="h-5 w-5 text-white" />
-                      </div>
-                      <p className="text-sm font-medium text-gray-700">Notfall</p>
-                      <p className="text-green-600 font-semibold text-sm mt-1">
-                        24/7 Service
+                        j.herrlich@esherrllich.de
                       </p>
                     </div>
                   </Card>
@@ -89,7 +77,7 @@ export function MaintenancePage() {
               <div className="text-center pt-4">
                 <p className="text-sm text-gray-500">
                   Vielen Dank für Ihr Verständnis!<br />
-                  <span className="font-medium">EventService Pro Team</span>
+                  <span className="font-medium">Eventservice Herrlich Team</span>
                 </p>
               </div>
             </div>
