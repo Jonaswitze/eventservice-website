@@ -8,7 +8,7 @@ export default function HomePage() {
     {
       icon: Volume2,
       title: "Tontechnik",
-      description: "Professionelle Beschallungsanlagen, Mikrofone und Audio-Equipment für jede Veranstaltungsgröße",
+      description: "fessionelle Beschallungsanlagen, Mikrofone und Audio-Equipment für jede Veranstaltungsgröße",
       features: ["PA-Anlagen", "Wireless-Mikrofone", "Mischpulte", "Monitoring"]
     },
     {
@@ -20,8 +20,8 @@ export default function HomePage() {
     {
       icon: Video,
       title: "Videotechnik",
-      description: "Professionelle Video- und Projektionslösungen für beeindruckende Präsentationen",
-      features: ["LED-Wände", "Projektoren", "Kameras", "Live-Streaming"]
+      description: "fessionelle Video- und jektionslösungen für beeindruckende Präsentationen",
+      features: ["LED-Wände", "jektoren", "Kameras", "Live-Streaming"]
     },
     {
       icon: Home,
@@ -39,7 +39,7 @@ export default function HomePage() {
       icon: Zap,
       title: "Strom & Energie",
       description: "Zuverlässige Stromversorgung für alle Ihre Event-Anforderungen",
-      features: ["Generatoren", "Stromverteilung", "CEE-Anschlüsse", "Absicherung"]
+      features: ["Stromverteilung", "CEE-Anschlüsse", "Absicherung"]
     },
     {
       icon: Droplets,
@@ -60,7 +60,7 @@ export default function HomePage() {
                 <Volume2 className="h-6 w-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">EventService Pro</h1>
+                <h1 className="text-xl font-bold text-gray-900">Eventservice Herrlich</h1>
                 <p className="text-sm text-gray-600">Ihr Partner für perfekte Events</p>
               </div>
             </div>
@@ -80,14 +80,14 @@ export default function HomePage() {
       <section className="py-20 px-4">
         <div className="container mx-auto text-center">
           <div className="max-w-4xl mx-auto">
-            <Badge variant="secondary" className="mb-4">Professioneller Eventservice</Badge>
+            <Badge variant="secondary" className="mb-4">fessioneller Eventservice</Badge>
             <h2 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
               Ihr Event,
               <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent"> perfekt inszeniert</span>
             </h2>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
               Von der Technik bis zur Ausstattung - wir sorgen dafür, dass Ihre Veranstaltung
-              ein unvergessliches Erlebnis wird. Professionell, zuverlässig und mit Leidenschaft für Details.
+              ein unvergessliches Erlebnis wird. fessionell, zuverlässig und mit Leidenschaft für Details.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700">
@@ -162,7 +162,7 @@ export default function HomePage() {
                   <div className="text-gray-600">Events erfolgreich umgesetzt</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-blue-600">15+</div>
+                  <div className="text-3xl font-bold text-blue-600">5+</div>
                   <div className="text-gray-600">Jahre Erfahrung</div>
                 </div>
               </div>
@@ -170,11 +170,11 @@ export default function HomePage() {
             <div className="relative">
               <div className="aspect-square bg-gradient-to-br from-blue-600 to-purple-600 rounded-2xl p-8 text-white">
                 <div className="h-full flex flex-col justify-center">
-                  <h4 className="text-2xl font-bold mb-4">Warum EventService Pro?</h4>
+                  <h4 className="text-2xl font-bold mb-4">Warum Eventservice Herrlich?</h4>
                   <ul className="space-y-3">
                     <li className="flex items-center space-x-3">
                       <div className="w-2 h-2 bg-white rounded-full" />
-                      <span>Professionelle Beratung</span>
+                      <span>fessionelle Beratung</span>
                     </li>
                     <li className="flex items-center space-x-3">
                       <div className="w-2 h-2 bg-white rounded-full" />
@@ -203,7 +203,7 @@ export default function HomePage() {
             <Badge variant="secondary" className="mb-4">Unsere Referenzen</Badge>
             <h3 className="text-4xl font-bold text-gray-900 mb-4">Erfolgreiche Events sprechen für sich</h3>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Ein Blick auf unsere vergangenen Projekte zeigt die Vielfalt und Qualität
+              Ein Blick auf unsere vergangenen jekte zeigt die Vielfalt und Qualität
               unserer Event-Ausstattung und technischen Umsetzungen.
             </p>
           </div>
@@ -212,22 +212,24 @@ export default function HomePage() {
             <Card className="group hover:shadow-xl transition-all duration-300 overflow-hidden">
               <div className="aspect-video bg-gradient-to-br from-blue-600 to-purple-600 relative overflow-hidden">
                 <img
-                  src="https://thumbs.dreamstime.com/b/outdoor-stage-setup-concert-event-lighting-sound-system-view-featuring-covered-platform-professional-ready-338486680.jpg"
+                  src="https://thumbs.dreamstime.com/b/outdoor-stage-setup-concert-event-lighting-sound-system-view-featuring-covered-platform-fessional-ready-338486680.jpg"
                   alt="Outdoor Festival Bühne"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
                 <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-10 transition-all duration-300" />
               </div>
               <CardContent className="p-6">
-                <h4 className="text-xl font-semibold mb-2">Outdoor Festival 2024</h4>
+                <h4 className="text-xl font-semibold mb-2">LIVE AM RHEIN – PFINGSTEN 2025</h4>
                 <p className="text-gray-600 mb-4">
                   Komplette Bühnentechnik für 5.000 Besucher mit Lichttechnik,
-                  Beschallung und LED-Screens.
+                  Beschallung und LED-Screens. Strom und Wasser Infrastruktur.
                 </p>
                 <div className="flex flex-wrap gap-2">
                   <Badge variant="outline" className="text-xs">Tontechnik</Badge>
                   <Badge variant="outline" className="text-xs">Lichttechnik</Badge>
                   <Badge variant="outline" className="text-xs">Bühne</Badge>
+                  <Badge variant="outline" className="text-xs">Strom</Badge>
+                  <Badge variant="outline" className="text-xs">Wasser</Badge>
                 </div>
               </CardContent>
             </Card>
@@ -235,22 +237,25 @@ export default function HomePage() {
             <Card className="group hover:shadow-xl transition-all duration-300 overflow-hidden">
               <div className="aspect-video bg-gradient-to-br from-purple-600 to-pink-600 relative overflow-hidden">
                 <img
-                  src="https://www.ldsystems.com/wp-content/uploads/2021/09/LD-Systems-Live-Event-Pro-Wrestling-1.jpg"
+                  src="https://www.ldsystems.com/wp-content/uploads/2021/09/LD-Systems-Live-Event--Wrestling-1.jpg"
                   alt="Indoor Arena Event"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
                 <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-10 transition-all duration-300" />
               </div>
               <CardContent className="p-6">
-                <h4 className="text-xl font-semibold mb-2">Arena Sportveranstaltung</h4>
+                <h4 className="text-xl font-semibold mb-2">LIVE AM RHEIN – MUSICAL</h4>
                 <p className="text-gray-600 mb-4">
-                  Professionelle Arena-Beschallung mit LED-Wänden und
-                  kompletter Lichttechnik für Live-Übertragung.
+                  Professionelle Outdoor-Beschallung mit LED-Wänden und
+                  kompletter Lichttechnik für ein Musikal. Kompllette 
+                  Strom und Wasser Infrastruktur.
                 </p>
                 <div className="flex flex-wrap gap-2">
                   <Badge variant="outline" className="text-xs">LED-Wände</Badge>
-                  <Badge variant="outline" className="text-xs">Live-Streaming</Badge>
+                  <Badge variant="outline" className="text-xs">Tontechnik</Badge>
                   <Badge variant="outline" className="text-xs">Lichttechnik</Badge>
+                  <Badge variant="outline" className="text-xs">Strom</Badge>
+                  <Badge variant="outline" className="text-xs">Wasser</Badge>
                 </div>
               </CardContent>
             </Card>
@@ -258,7 +263,7 @@ export default function HomePage() {
             <Card className="group hover:shadow-xl transition-all duration-300 overflow-hidden">
               <div className="aspect-video bg-gradient-to-br from-green-600 to-blue-600 relative overflow-hidden">
                 <img
-                  src="https://thumbs.dreamstime.com/b/large-indoor-outdoor-concert-stage-large-indoor-outdoor-concert-stage-professional-sound-lighting-equipment-designed-364269452.jpg"
+                  src="https://thumbs.dreamstime.com/b/large-indoor-outdoor-concert-stage-large-indoor-outdoor-concert-stage-fessional-sound-lighting-equipment-designed-364269452.jpg"
                   alt="Konzert Bühne Setup"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -281,14 +286,14 @@ export default function HomePage() {
             <Card className="group hover:shadow-xl transition-all duration-300 overflow-hidden">
               <div className="aspect-video bg-gradient-to-br from-orange-600 to-red-600 relative overflow-hidden">
                 <img
-                  src="https://thumbs.dreamstime.com/b/stage-lighting-setup-circular-truss-beams-dramatic-illumination-empty-performance-area-professional-sound-equipment-smoke-356044219.jpg"
+                  src="https://thumbs.dreamstime.com/b/stage-lighting-setup-circular-truss-beams-dramatic-illumination-empty-performance-area-fessional-sound-equipment-smoke-356044219.jpg"
                   alt="Theater Lichttechnik"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
                 <div className="absolute inset-0 bg-black bg-opacity-20 group-hover:bg-opacity-10 transition-all duration-300" />
               </div>
               <CardContent className="p-6">
-                <h4 className="text-xl font-semibold mb-2">Theater Produktion</h4>
+                <h4 className="text-xl font-semibold mb-2">Theater duktion</h4>
                 <p className="text-gray-600 mb-4">
                   Atmosphärische Lichttechnik mit Moving Lights und
                   Nebeleffekten für Theateraufführung.
@@ -304,7 +309,7 @@ export default function HomePage() {
             <Card className="group hover:shadow-xl transition-all duration-300 overflow-hidden">
               <div className="aspect-video bg-gradient-to-br from-indigo-600 to-purple-600 relative overflow-hidden">
                 <img
-                  src="https://media.istockphoto.com/id/1265600574/photo/installation-of-professional-sound-light-led-panel-video-and-stage-equipment-for-a-concert.jpg?s=1024x1024&w=is&k=20&c=zrcN1p5OpM5rewOWQsnK8l0sMRhwmyYtTVVHbwT_j3s="
+                  src="https://media.istockphoto.com/id/1265600574/photo/installation-of-fessional-sound-light-led-panel-video-and-stage-equipment-for-a-concert.jpg?s=1024x1024&w=is&k=20&c=zrcN1p5OpM5rewOWQsnK8l0sMRhwmyYtTVVHbwT_j3s="
                   alt="Equipment Installation"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -313,7 +318,7 @@ export default function HomePage() {
               <CardContent className="p-6">
                 <h4 className="text-xl font-semibold mb-2">Corporate Event</h4>
                 <p className="text-gray-600 mb-4">
-                  Professionelle Installation von Audio-, Video- und
+                  fessionelle Installation von Audio-, Video- und
                   Lichttechnik für Firmenveranstaltung.
                 </p>
                 <div className="flex flex-wrap gap-2">
@@ -327,7 +332,7 @@ export default function HomePage() {
             <Card className="group hover:shadow-xl transition-all duration-300 overflow-hidden">
               <div className="aspect-video bg-gradient-to-br from-teal-600 to-green-600 relative overflow-hidden">
                 <img
-                  src="https://carolinassl.com/wp-content/uploads/2024/09/mobile-stage-sl100-rental-stageline-charlotte-nc-carolina-sound-stage-lighting-pro-audio-corporate-concert-festival-event-production-media.jpg-1024x533.jpg"
+                  src="https://carolinassl.com/wp-content/uploads/2024/09/mobile-stage-sl100-rental-stageline-charlotte-nc-carolina-sound-stage-lighting--audio-corporate-concert-festival-event-duction-media.jpg-1024x533.jpg"
                   alt="Mobile Bühne"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 />
@@ -368,7 +373,7 @@ export default function HomePage() {
                 <div className="w-16 h-16 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center mx-auto mb-2">
                   <Volume2 className="h-8 w-8 text-white" />
                 </div>
-                <p className="text-sm font-semibold text-gray-700">AudioTech Pro</p>
+                <p className="text-sm font-semibold text-gray-700">AudioTech </p>
               </div>
             </Card>
 
@@ -395,7 +400,7 @@ export default function HomePage() {
                 <div className="w-16 h-16 bg-gradient-to-r from-orange-600 to-red-600 rounded-lg flex items-center justify-center mx-auto mb-2">
                   <Home className="h-8 w-8 text-white" />
                 </div>
-                <p className="text-sm font-semibold text-gray-700">ZeltProfi</p>
+                <p className="text-sm font-semibold text-gray-700">Zeltfi</p>
               </div>
             </Card>
 
@@ -415,38 +420,6 @@ export default function HomePage() {
                 </div>
                 <p className="text-sm font-semibold text-gray-700">Catering Plus</p>
               </div>
-            </Card>
-          </div>
-
-          <div className="mt-16 grid md:grid-cols-3 gap-8">
-            <Card className="p-8 text-center hover:shadow-xl transition-all duration-300">
-              <div className="w-16 h-16 bg-blue-600 rounded-lg flex items-center justify-center mx-auto mb-4">
-                <Badge className="text-white bg-transparent">T</Badge>
-              </div>
-              <h4 className="text-xl font-semibold mb-3">Technologie-Partner</h4>
-              <p className="text-gray-600">
-                Führende Hersteller von Audio-, Video- und Lichttechnik für modernste Ausstattung.
-              </p>
-            </Card>
-
-            <Card className="p-8 text-center hover:shadow-xl transition-all duration-300">
-              <div className="w-16 h-16 bg-purple-600 rounded-lg flex items-center justify-center mx-auto mb-4">
-                <Badge className="text-white bg-transparent">V</Badge>
-              </div>
-              <h4 className="text-xl font-semibold mb-3">Veranstaltungsorte</h4>
-              <p className="text-gray-600">
-                Kooperationen mit Premium-Venues und Event-Locations in der gesamten Region.
-              </p>
-            </Card>
-
-            <Card className="p-8 text-center hover:shadow-xl transition-all duration-300">
-              <div className="w-16 h-16 bg-green-600 rounded-lg flex items-center justify-center mx-auto mb-4">
-                <Badge className="text-white bg-transparent">S</Badge>
-              </div>
-              <h4 className="text-xl font-semibold mb-3">Service-Partner</h4>
-              <p className="text-gray-600">
-                Zuverlässige Partner für Catering, Dekoration und zusätzliche Event-Services.
-              </p>
             </Card>
           </div>
         </div>
@@ -469,7 +442,7 @@ export default function HomePage() {
               <div className="w-24 h-24 bg-gradient-to-br from-blue-600 to-purple-600 rounded-full mx-auto mb-6 flex items-center justify-center text-white text-2xl font-bold">
                 MK
               </div>
-              <h4 className="text-xl font-semibold mb-2">Michael Klang</h4>
+              <h4 className="text-xl font-semibold mb-2">Jan-Philip Herrlich</h4>
               <p className="text-blue-600 font-medium mb-3">Geschäftsführer & Tontechnik</p>
               <p className="text-gray-600 text-sm leading-relaxed">
                 15 Jahre Erfahrung in der Veranstaltungstechnik. Spezialist für
@@ -481,8 +454,8 @@ export default function HomePage() {
               <div className="w-24 h-24 bg-gradient-to-br from-purple-600 to-pink-600 rounded-full mx-auto mb-6 flex items-center justify-center text-white text-2xl font-bold">
                 SL
               </div>
-              <h4 className="text-xl font-semibold mb-2">Sarah Licht</h4>
-              <p className="text-blue-600 font-medium mb-3">Lichttechnik & Design</p>
+              <h4 className="text-xl font-semibold mb-2">Christina Witze</h4>
+              <p className="text-blue-600 font-medium mb-3">Buchhaltung</p>
               <p className="text-gray-600 text-sm leading-relaxed">
                 Kreative Lichtdesignerin mit Fokus auf atmosphärische Beleuchtung
                 und innovative LED-Installationen für unvergessliche Momente.
@@ -493,10 +466,10 @@ export default function HomePage() {
               <div className="w-24 h-24 bg-gradient-to-br from-green-600 to-blue-600 rounded-full mx-auto mb-6 flex items-center justify-center text-white text-2xl font-bold">
                 TW
               </div>
-              <h4 className="text-xl font-semibold mb-2">Thomas Weber</h4>
-              <p className="text-blue-600 font-medium mb-3">Videotechnik & Streaming</p>
+              <h4 className="text-xl font-semibold mb-2">Jonas-Matthias Witze</h4>
+              <p className="text-blue-600 font-medium mb-3">Tontechnik, Lichttechnik, Videotechnik & Streaming</p>
               <p className="text-gray-600 text-sm leading-relaxed">
-                Experte für Projektionslösungen und Live-Streaming. Sorgt für
+                Experte für jektionslösungen und Live-Streaming. Sorgt für
                 perfekte Übertragungen und beeindruckende Video-Präsentationen.
               </p>
             </Card>
@@ -530,10 +503,10 @@ export default function HomePage() {
                 AL
               </div>
               <h4 className="text-xl font-semibold mb-2">Anna Logistik</h4>
-              <p className="text-blue-600 font-medium mb-3">Projektmanagement</p>
+              <p className="text-blue-600 font-medium mb-3">jektmanagement</p>
               <p className="text-gray-600 text-sm leading-relaxed">
                 Koordiniert alle Bereiche und sorgt für reibungslose Abläufe.
-                Ihre Ansprechpartnerin für Planung und Projektmanagement.
+                Ihre Ansprechpartnerin für Planung und jektmanagement.
               </p>
             </Card>
           </div>
@@ -568,7 +541,7 @@ export default function HomePage() {
               </div>
               <h4 className="text-xl font-semibold mb-2">E-Mail</h4>
               <p className="text-gray-600 mb-4">Schreiben Sie uns Ihre Anfrage</p>
-              <p className="text-blue-600 font-semibold">info@eventservice-pro.de</p>
+              <p className="text-blue-600 font-semibold">info@eventservice-.de</p>
             </Card>
 
             <Card className="text-center p-8">
@@ -601,7 +574,7 @@ export default function HomePage() {
                 <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg flex items-center justify-center">
                   <Volume2 className="h-5 w-5 text-white" />
                 </div>
-                <span className="font-bold">EventService Pro</span>
+                <span className="font-bold">Eventservice Herrlich</span>
               </div>
               <p className="text-gray-400">
                 Ihr zuverlässiger Partner für unvergessliche Events.
@@ -629,14 +602,14 @@ export default function HomePage() {
               <h5 className="font-semibold mb-4">Kontakt</h5>
               <ul className="space-y-2 text-gray-400">
                 <li>+49 (0) 123 456 789</li>
-                <li>info@eventservice-pro.de</li>
+                <li>info@eventservice-.de</li>
                 <li>Musterstraße 123</li>
                 <li>12345 Musterstadt</li>
               </ul>
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 EventService Pro. Alle Rechte vorbehalten.</p>
+            <p>&copy; 2025 Eventservice Herrlich. Alle Rechte vorbehalten.</p>
           </div>
         </div>
       </footer>
